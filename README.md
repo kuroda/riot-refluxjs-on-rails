@@ -11,7 +11,7 @@
 Install dependencies with bower and npm. You'll first need to have [bower](http://bower.io/) and [npm](npmjs.org) installed to do so. Then run the following:
 
 ```
-bower install && npm install
+bower install
 ```
 
 ## Credit

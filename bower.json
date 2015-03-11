@@ -1,0 +1,8 @@
+{
+  "name": "riot-refluxjs-on-rails-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "riot": "2.0.13",
+    "reflux": "0.2.6"
+  }
+}
